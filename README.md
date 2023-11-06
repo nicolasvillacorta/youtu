@@ -1,3 +1,7 @@
+# Custom
+https://github.com/gitname/react-gh-pages#1-create-an-empty-repository-on-github
+
+###############################
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
